@@ -1,5 +1,5 @@
 ## HOSTED LINK OF PROJECT
-To explore the project, visit the 
+To explore the project, visit the  [https://rakeshsathawane.github.io/DOM-Manipulation/](https://rakeshsathawane.github.io/DOM-Manipulation/)
 
 ## <h3>DOM Manipulation in JavaScript</h3>
 DOM manipulation is a fundamental aspect of web development, allowing developers to dynamically change the content, structure, and style of web pages.
